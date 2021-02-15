@@ -51,6 +51,8 @@ Example:  [Ilan Mandel im334](https://github.com/imandel/Interactive-Lab-Hub)
 5. [Sam Lee snlee159](https://github.com/snlee159/Interactive-Lab-Hub)
 
 6. [Irene Font Peradejordi - if76](https://github.com/IreneFP/Interactive-Lab-Hub)
+
+7. [Jingjun Wang jw2668](https://github.com/helensz98/Interactive-Lab-Hub)
 																		
 
 
